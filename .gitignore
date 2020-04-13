@@ -1,0 +1,11 @@
+# User-specific stuff
+.idea/
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+node_modules/
+package-lock.json
